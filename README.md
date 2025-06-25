@@ -17,6 +17,6 @@ This portfolio documents real AWS projects deployed step-by-step using services 
 
 ## About Me
 
-I'm building this portfolio to master AWS cloud architecture and prepare for roles in cloud engineering, solutions architecture, or DevOps. All labs and projects are done without CLI — 100% Console-based and Free Tier safe.
+I'm building this portfolio to master AWS cloud architecture and prepare for roles in cloud engineering, solutions architecture, or DevOps. All labs and projects are Free Tier safe.
 
 
